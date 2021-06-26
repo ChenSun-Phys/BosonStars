@@ -1,4 +1,4 @@
-# Bose-Einstein Condensate Solver
+# Bose-Einstein Condensate Solver 
 Numerically solve the Einstein-Klein-Gordon equations of motion for two scalar boson stars, with relaxation method. 
 
 Important files are:
